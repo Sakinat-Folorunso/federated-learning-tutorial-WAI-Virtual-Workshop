@@ -35,6 +35,22 @@ Files
 | `LICENSE`                                          | Project license (MIT).                             |
 
 
+
+# Other Application Areas
+
+1. Healthcare
+2. Agriculture
+3. Finance
+4. Cultural AI
+5. IOT
+6. Cyber Security
+7. Smart Cities Traffic
+8. Retail
+9. Education
+
+Note that the other datasets uploaded can also be used with the notebook uploade. You just need to replace the dataset.
+
+
 License
 
 This project is licensed under the [MIT License](LICENSE).
