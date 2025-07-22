@@ -19,7 +19,7 @@ Features
 How to Use
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).
-2. Upload the malaria dataset CSV to `/mnt/data/` as specified in the notebook.
+2. Upload the malaria dataset CSV to `/your/storage location/` as specified in the notebook.
 3. Run all cells step-by-step.
 4. Adjust architecture and client settings using the widgets.
 
