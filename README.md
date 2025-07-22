@@ -48,7 +48,7 @@ Files
 8. Retail
 9. Education
 
-Note that the other datasets uploaded can also be used with the notebook uploade. You just need to replace the dataset.
+# Note that the other datasets uploaded can also be used with the notebook uploade. You just need to replace the dataset.
 
 
 License
