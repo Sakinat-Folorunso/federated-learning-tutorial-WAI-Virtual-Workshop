@@ -5,7 +5,7 @@ Federated Learning Tutorial: Malaria Diagnosis
 
 Interactive federated learning tutorial using Flower, TensorFlow, and a synthetic malaria dataset. Developed for the Women in AI Nigeria Workshop.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/federated-learning-malaria-tutorial/blob/main/Interactive_Federated_Malaria_Workshop_Notebook(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/federated-learning-malaria-tutorial/blob/main/Interactive_Federated_Malaria_Workshop_Notebook(2).ipynb)
 
 
 Features
